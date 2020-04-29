@@ -1,0 +1,8 @@
+E:\Projects\Test\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\Projects\Test\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\Projects\Test\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\Projects\Test\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+E:\Projects\Test\Calculator\Calculator\obj\Debug\Calculator.MontantEmprunter.resources
+E:\Projects\Test\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+E:\Projects\Test\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\Projects\Test\Calculator\Calculator\obj\Debug\Calculator.pdb

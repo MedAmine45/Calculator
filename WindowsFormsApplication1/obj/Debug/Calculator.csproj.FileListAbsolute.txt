@@ -1,0 +1,29 @@
+E:\Projects\Test\Calculator\WindowsFormsApplication1\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+E:\Projects\Test\Calculator\WindowsFormsApplication1\obj\Debug\Calculator.MontantEmprunter.resources
+E:\Projects\Test\Calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Projects\Test\Calculator\WindowsFormsApplication1\obj\Debug\Calculator.csproj.GenerateResource.Cache
+E:\Projects\Test\Calculator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Projects\Test\Calculator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Projects\Test\Calculator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Projects\Test\Calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Projects\Test\Calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\MohamedamineBenNourd\Downloads\Calculator\Calculator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\MohamedamineBenNourd\Downloads\Calculator\Calculator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\MohamedamineBenNourd\Downloads\Calculator\Calculator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\MohamedamineBenNourd\Downloads\Calculator\Calculator\WindowsFormsApplication1\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\MohamedamineBenNourd\Downloads\Calculator\Calculator\WindowsFormsApplication1\obj\Debug\Calculator.MontantEmprunter.resources
+C:\Users\MohamedamineBenNourd\Downloads\Calculator\Calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\MohamedamineBenNourd\Downloads\Calculator\Calculator\WindowsFormsApplication1\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\MohamedamineBenNourd\Downloads\Calculator\Calculator\WindowsFormsApplication1\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\MohamedamineBenNourd\Downloads\Calculator\Calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\MohamedamineBenNourd\Downloads\Calculator\Calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Admin\Desktop\essai de test technique\Calculator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Admin\Desktop\essai de test technique\Calculator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Admin\Desktop\essai de test technique\Calculator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Admin\Desktop\essai de test technique\Calculator\WindowsFormsApplication1\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\essai de test technique\Calculator\WindowsFormsApplication1\obj\Debug\Calculator.MontantEmprunter.resources
+C:\Users\Admin\Desktop\essai de test technique\Calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Admin\Desktop\essai de test technique\Calculator\WindowsFormsApplication1\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\essai de test technique\Calculator\WindowsFormsApplication1\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\essai de test technique\Calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Admin\Desktop\essai de test technique\Calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
